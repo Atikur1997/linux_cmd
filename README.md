@@ -1,6 +1,6 @@
 # linux_cmd
 
 #Create file 
-
-
-// mkdir "File name"
+``
+ mkdir "File name"
+ ``
