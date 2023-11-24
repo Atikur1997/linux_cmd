@@ -1,2 +1,2 @@
-hello i am nissan
-this is my first push from linux
+#linux command 
+-----
