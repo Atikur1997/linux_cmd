@@ -2,5 +2,5 @@
 ---
 ### Creating Directory
 ---
- ///
+ /
  mkdir "Folder Name"
