@@ -7,7 +7,4 @@
 ```
 
 
-   line 1\n
-   line 2
-   line 3
 
