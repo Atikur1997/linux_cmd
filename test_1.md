@@ -3,5 +3,5 @@
 ### Creating Directory
 ---
  ```
- mkdir "Folder Name"
+ mkdir "Folder Name" {directory}
 ```
