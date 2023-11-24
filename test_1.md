@@ -5,8 +5,8 @@
  ```
  mkdir "Folder Name" {directory}
 ```
- /comments
+ //comments
  line 1
  line 2
  line 3
-/
+//
